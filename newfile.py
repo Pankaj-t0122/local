@@ -1,3 +1,2 @@
-print ("MY NAME IS PANKAJ")
-print ("My age is 25")
-print ("This is V7")
+echo "My name is pankaj"
+echo "thi is v8"
