@@ -1,2 +1,2 @@
-echo "My name is pankaj
+print("My name is Pankaj"
 echo "thi is v8"
